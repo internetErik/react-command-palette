@@ -1,0 +1,20 @@
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Dependency directory
+# Deployed apps should consider commenting this line out:
+# see https://npmjs.org/doc/faq.html#Should-I-check-my-node_modules-folder-into-git
+node_modules
+
+# Ignore v8 build
+v8-compile-cache-0
+
+# Ignore .env configuration files/folders
+.env
+.vscode
+
+# Ignore .DS_Store files on OS X
+.DS_Store
